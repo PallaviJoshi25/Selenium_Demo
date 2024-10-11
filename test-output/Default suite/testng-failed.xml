@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="NOTES_Using_SELENIUM_ASSIGNMENT.Base__Class">
+        <methods>
+          <include name="login"/>
+          <include name="setUp"/>
+          <include name="delete_all_notes"/>
+        </methods>
+      </class> <!-- NOTES_Using_SELENIUM_ASSIGNMENT.Base__Class -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T03:37:17 UTC" name="Default suite" finished-at="2024-10-10T03:37:37 UTC" duration-ms="20022">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T03:37:17 UTC" name="Default test" finished-at="2024-10-10T03:37:37 UTC" duration-ms="20022">
+      <class name="NOTES_Using_SELENIUM_ASSIGNMENT.Base__Class">
+        <test-method signature="login()[pri:0, instance:NOTES_Using_SELENIUM_ASSIGNMENT.Base__Class@2b662a77]" started-at="2024-10-10T03:37:17 UTC" name="login" finished-at="2024-10-10T03:37:35 UTC" duration-ms="17959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="delete_all_notes()[pri:1, instance:NOTES_Using_SELENIUM_ASSIGNMENT.Base__Class@2b662a77]" started-at="2024-10-10T03:37:35 UTC" name="delete_all_notes" finished-at="2024-10-10T03:37:37 UTC" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_all_notes -->
+      </class> <!-- NOTES_Using_SELENIUM_ASSIGNMENT.Base__Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
